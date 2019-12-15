@@ -1,1 +1,1 @@
-# CloudCoinDesktopApp
+# CloudCoin Desktop App
